@@ -2,11 +2,7 @@
 QR code generator
 
 
-these project is done by using the nodejs so you need to install the nodemon packages to run these code
-
-the packages you need to install is that inquirer and  qr-image from the npm.js document
-
-then you can run the code and for your reference i have uploaded my packages once you look into that and install your packages
-
-and after installing packages you need to change on thing that is in the packages after main you need to enter type and change it to module ie "type":"module",
-then your project is ready you can run on your terminal by using node
+these project is done by using the nodejs so you need node from chrome and also git then in the git you need
+to create one folder and put all the files into that folder and cd change directory to that folder in the git
+the you need to enter command npm install after installing npm  after you need to run index.js file for these
+you need to enter node index.js
